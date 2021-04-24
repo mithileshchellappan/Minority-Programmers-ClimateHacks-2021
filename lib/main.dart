@@ -4,8 +4,8 @@ import "package:flutter/material.dart";
 import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
-import 'loginScreen.dart';
-import 'bottom_bar.dart';
+import 'package:trashgram/screens/loginScreen.dart';
+import 'package:trashgram/utils/bottom_bar.dart';
 
 import 'auth.dart';
 
